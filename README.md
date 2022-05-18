@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# This is my landing page for an andriod app
+# Technologies used are [reactjs](https://github.com/facebook/create-react-app) and tailwind css
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
